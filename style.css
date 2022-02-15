@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+p {
+  color: red;
+  width: 100%;
+}
+.lorem {
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 2em;
+}
